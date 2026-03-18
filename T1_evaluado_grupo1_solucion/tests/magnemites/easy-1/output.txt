@@ -1,0 +1,13 @@
+Magnemite 0 ingreso a la manada 2.
+MagneZone 2:
+    Magnemite 0
+MagneZone 2:
+    Magnemite 0
+Magnemite 1 ingreso a la manada 0.
+Magnemite 0 abandono a su magneZone.
+Magnemite 2 ingreso a la manada 2.
+MagneZone 2:
+    Magnemite 2
+Magnemite 2 abandono a su magneZone.
+Magnemite 1 abandono a su magneZone.
+Magnemite 3 ingreso a la manada 2.

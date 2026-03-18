@@ -1,0 +1,102 @@
+MagneZone 1 tiene 0 magnemites.
+MagneZone 20 tiene 0 magnemites.
+Magnemite 86 ingreso a la manada 6.
+MagneZone 6:
+    Magnemite 86
+Magnemite 87 ingreso a la manada 16.
+MagneZone 22 tiene 0 magnemites.
+MagneZone 16:
+    Magnemite 87
+MagneZone 18 tiene 0 magnemites.
+MagneZone 16:
+    Magnemite 87
+Magnemite 88 ingreso a la manada 22.
+Magnemite 89 ingreso a la manada 21.
+MagneZone 16 tiene 1 magnemites.
+MagneZone 20 tiene 0 magnemites.
+MagneZone 18 tiene 0 magnemites.
+MagneZone 22 tiene 1 magnemites.
+MagneZone 16:
+    Magnemite 87
+MagneZone 6 encontrados 0:
+Magnemite 88 abandono a su magneZone.
+MagneZone 18 tiene 0 magnemites.
+MagneZone 14 tiene 0 magnemites.
+Magnemite 90 ingreso a la manada 0.
+MagneZone 16 tiene 1 magnemites.
+MagneZone 10 tiene 0 magnemites.
+MagneZone 0:
+    Magnemite 90
+MagneZone 24 tiene 0 magnemites.
+MagneZone 1 tiene 0 magnemites.
+Magnemite 91 ingreso a la manada 11.
+MagneZone 16 encontrados 0:
+MagneZone 16:
+    Magnemite 87
+MagneZone 11 tiene 1 magnemites.
+MagneZone 11 encontrados 0:
+MagneZone 11:
+    Magnemite 91
+MagneZone 11 encontrados 0:
+MagneZone 11 tiene 1 magnemites.
+Magnemite 86 abandono a su magneZone.
+MagneZone 16:
+    Magnemite 87
+MagneZone 16:
+    Magnemite 87
+MagneZone 23 tiene 0 magnemites.
+Magnemite 92 ingreso a la manada 13.
+MagneZone 5 tiene 0 magnemites.
+Magnemite 93 ingreso a la manada 21.
+Magnemite 94 ingreso a la manada 2.
+MagneZone 18 tiene 0 magnemites.
+MagneZone 2 encontrados 0:
+MagneZone 21 encontrados 0:
+MagneZone 7 tiene 0 magnemites.
+Magnemites 93 y 89 suman 95 de velocidad.
+Magnemite 95 ingreso a la manada 8.
+MagneZone 2:
+    Magnemite 94
+MagneZone 11:
+    Magnemite 91
+Magnemites 93 y 89 suman 95 de velocidad.
+Magnemite 96 ingreso a la manada 1.
+Magnemite 89 abandono a su magneZone.
+MagneZone 0 encontrados 0:
+MagneZone 17 tiene 0 magnemites.
+MagneZone 16:
+    Magnemite 87
+MagneZone 0 tiene 1 magnemites.
+Magnemite 91 abandono a su magneZone.
+Magnemite 97 ingreso a la manada 10.
+Magnemite 98 ingreso a la manada 17.
+MagneZone 21 tiene 1 magnemites.
+Magnemite 94 abandono a su magneZone.
+MagneZone 17 encontrados 0:
+MagneZone 1 tiene 1 magnemites.
+MagneZone 10 encontrados 0:
+MagneZone 16 encontrados 0:
+Magnemite 99 ingreso a la manada 14.
+MagneZone 0:
+    Magnemite 90
+MagneZone 19 tiene 0 magnemites.
+Magnemite 100 ingreso a la manada 9.
+MagneZone 7 tiene 0 magnemites.
+MagneZone 14 encontrados 0:
+MagneZone 21:
+    Magnemite 93
+MagneZone 8:
+    Magnemite 95
+Magnemite 87 abandono a su magneZone.
+Magnemite 96 abandono a su magneZone.
+Magnemite 101 ingreso a la manada 22.
+MagneZone 10:
+    Magnemite 97
+MagneZone 17:
+    Magnemite 98
+MagneZone 8 encontrados 0:
+Magnemite 102 ingreso a la manada 0.
+MagneZone 17:
+    Magnemite 98
+Magnemite 103 ingreso a la manada 17.
+MagneZone 17 tiene 2 magnemites.

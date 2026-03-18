@@ -1,0 +1,18 @@
+Magnemite 17 ingreso a la manada 4.
+MagneZone 4:
+    Magnemite 17
+Magnemite 17 abandono a su magneZone.
+Magnemite 18 ingreso a la manada 0.
+MagneZone 0:
+    Magnemite 18
+Magnemite 19 ingreso a la manada 3.
+Magnemite 18 abandono a su magneZone.
+MagneZone 3:
+    Magnemite 19
+Magnemite 20 ingreso a la manada 3.
+Magnemite 21 ingreso a la manada 2.
+MagneZone 1 encontrados 0:
+MagneZone 3:
+    Magnemite 19
+    Magnemite 20
+Magnemite 22 ingreso a la manada 4.

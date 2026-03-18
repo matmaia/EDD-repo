@@ -1,0 +1,53 @@
+Magnemite 31 ingreso a la manada 10.
+Magnemite 31 abandono a su magneZone.
+MagneZone 9 tiene 0 magnemites.
+MagneZone 3 tiene 0 magnemites.
+MagneZone 14 tiene 0 magnemites.
+Magnemite 32 ingreso a la manada 14.
+Magnemite 33 ingreso a la manada 6.
+MagneZone 8 tiene 0 magnemites.
+MagneZone 10 tiene 0 magnemites.
+Magnemite 34 ingreso a la manada 9.
+MagneZone 9 encontrados 1:
+    Magnemite 34
+Magnemite 35 ingreso a la manada 6.
+Magnemite 36 ingreso a la manada 2.
+MagneZone 14 tiene 1 magnemites.
+MagneZone 6:
+    Magnemite 35
+    Magnemite 33
+MagneZone 0 tiene 0 magnemites.
+MagneZone 4 tiene 0 magnemites.
+MagneZone 8 encontrados 0:
+MagneZone 14 encontrados 0:
+MagneZone 2:
+    Magnemite 36
+Magnemite 37 ingreso a la manada 2.
+Magnemite 38 ingreso a la manada 0.
+MagneZone 13 tiene 0 magnemites.
+MagneZone 14 encontrados 0:
+MagneZone 14 encontrados 0:
+MagneZone 9 encontrados 1:
+    Magnemite 34
+Magnemite 39 ingreso a la manada 2.
+MagneZone 6:
+    Magnemite 35
+    Magnemite 33
+MagneZone 6:
+    Magnemite 33
+    Magnemite 35
+MagneZone 2 encontrados 1:
+    Magnemite 39
+Magnemite 40 ingreso a la manada 13.
+MagneZone 10 tiene 0 magnemites.
+MagneZone 2 encontrados 0:
+MagneZone 11 tiene 0 magnemites.
+MagneZone 2 tiene 3 magnemites.
+MagneZone 8 tiene 0 magnemites.
+MagneZone 12 tiene 0 magnemites.
+MagneZone 9:
+    Magnemite 34
+Magnemite 41 ingreso a la manada 3.
+Magnemite 42 ingreso a la manada 7.
+MagneZone 3:
+    Magnemite 41

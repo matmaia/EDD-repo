@@ -1,0 +1,79 @@
+Magnemite 43 ingreso a la manada 2.
+MagneZone 1 tiene 0 magnemites.
+MagneZone 0 encontrados 0:
+MagneZone 2:
+    Magnemite 43
+MagneZone 2:
+    Magnemite 43
+MagneZone 3 tiene 0 magnemites.
+MagneZone 17 tiene 0 magnemites.
+Magnemite 44 ingreso a la manada 0.
+Magnemite 43 abandono a su magneZone.
+MagneZone 18 tiene 0 magnemites.
+MagneZone 0:
+    Magnemite 44
+MagneZone 0:
+    Magnemite 44
+Magnemite 45 ingreso a la manada 12.
+MagneZone 12:
+    Magnemite 45
+Magnemite 46 ingreso a la manada 10.
+Magnemite 47 ingreso a la manada 11.
+Magnemite 48 ingreso a la manada 14.
+MagneZone 14:
+    Magnemite 48
+MagneZone 12 tiene 1 magnemites.
+MagneZone 11:
+    Magnemite 47
+Magnemite 49 ingreso a la manada 17.
+MagneZone 11:
+    Magnemite 47
+Magnemite 50 ingreso a la manada 15.
+Magnemite 51 ingreso a la manada 1.
+MagneZone 11 tiene 1 magnemites.
+Magnemite 45 abandono a su magneZone.
+MagneZone 1:
+    Magnemite 51
+Magnemite 52 ingreso a la manada 10.
+Magnemite 53 ingreso a la manada 18.
+MagneZone 10 tiene 2 magnemites.
+MagneZone 14:
+    Magnemite 48
+MagneZone 16 tiene 0 magnemites.
+Magnemite 54 ingreso a la manada 18.
+MagneZone 0 encontrados 0:
+MagneZone 0 encontrados 0:
+Magnemite 55 ingreso a la manada 17.
+MagneZone 1:
+    Magnemite 51
+Magnemite 56 ingreso a la manada 4.
+MagneZone 9 tiene 0 magnemites.
+MagneZone 4:
+    Magnemite 56
+Magnemite 54 abandono a su magneZone.
+MagneZone 10 encontrados 0:
+MagneZone 0 tiene 1 magnemites.
+MagneZone 1 encontrados 0:
+MagneZone 14:
+    Magnemite 48
+Magnemite 57 ingreso a la manada 18.
+Magnemite 58 ingreso a la manada 12.
+Magnemite 59 ingreso a la manada 17.
+Magnemite 60 ingreso a la manada 19.
+Magnemite 61 ingreso a la manada 5.
+Magnemite 62 ingreso a la manada 12.
+Magnemite 63 ingreso a la manada 4.
+Magnemite 64 ingreso a la manada 8.
+MagneZone 4:
+    Magnemite 63
+    Magnemite 56
+MagneZone 10 encontrados 0:
+MagneZone 15 tiene 1 magnemites.
+MagneZone 0:
+    Magnemite 44
+MagneZone 14 tiene 1 magnemites.
+MagneZone 7 tiene 0 magnemites.
+MagneZone 9 tiene 0 magnemites.
+MagneZone 8 tiene 1 magnemites.
+Magnemite 65 ingreso a la manada 3.
+MagneZone 8 tiene 1 magnemites.
