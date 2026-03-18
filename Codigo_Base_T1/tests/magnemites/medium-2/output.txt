@@ -1,0 +1,70 @@
+Magnemite 68 ingreso a la manada 3.
+Magnemite 69 ingreso a la manada 14.
+Magnemite 70 ingreso a la manada 14.
+Magnemite 71 ingreso a la manada 10.
+Magnemite 72 ingreso a la manada 1.
+Magnemite 68 abandono a su magnezone.
+Magnemite 73 ingreso a la manada 19.
+MagneZone 1 encontrados 0:
+Magnemite 71 abandono a su magnezone.
+Magnemite 72 abandono a su magnezone.
+Magnemite 74 ingreso a la manada 6.
+Magnemite 70 abandono a su magnezone.
+MagneZone 6 encontrados 0:
+Magnemite 73 abandono a su magnezone.
+Magnemite 74 abandono a su magnezone.
+MagneZone 14 encontrados 0:
+Magnemite 75 ingreso a la manada 7.
+Magnemite 76 ingreso a la manada 4.
+MagneZone 4 encontrados 0:
+Magnemite 77 ingreso a la manada 0.
+Magnemite 76 abandono a su magnezone.
+MagneZone 0 encontrados 0:
+Magnemite 69 abandono a su magnezone.
+MagneZone 0 encontrados 0:
+MagneZone 0 encontrados 0:
+MagneZone 7 encontrados 0:
+MagneZone 9 encontrados 0:
+MagneZone 7 encontrados 0:
+MagneZone 7 encontrados 0:
+MagneZone 4 tiene 0 magnemites.
+Magnemite 78 ingreso a la manada 6.
+Magnemite 79 ingreso a la manada 16.
+Magnemite 78 abandono a su magnezone.
+MagneZone 7 encontrados 0:
+Magnemite 77 abandono a su magnezone.
+Magnemite 75 abandono a su magnezone.
+Magnemite 79 abandono a su magnezone.
+Magnemite 80 ingreso a la manada 19.
+Magnemite 80 abandono a su magnezone.
+Magnemite 81 ingreso a la manada 6.
+Magnemite 81 abandono a su magnezone.
+Magnemite 82 ingreso a la manada 18.
+Magnemite 82 abandono a su magnezone.
+Magnemite 83 ingreso a la manada 15.
+Magnemite 83 abandono a su magnezone.
+Magnemite 84 ingreso a la manada 6.
+MagneZone 6 encontrados 0:
+MagneZone 17 encontrados 0:
+MagneZone 6 encontrados 0:
+Magnemite 84 abandono a su magnezone.
+Magnemite 85 ingreso a la manada 16.
+Magnemite 85 abandono a su magnezone.
+Magnemite 86 ingreso a la manada 17.
+Magnemite 87 ingreso a la manada 13.
+MagneZone 13 encontrados 0:
+MagneZone 17 encontrados 0:
+MagneZone 13 encontrados 0:
+MagneZone 17 encontrados 0:
+Magnemite 86 abandono a su magnezone.
+Magnemite 87 abandono a su magnezone.
+Magnemite 88 ingreso a la manada 19.
+MagneZone 19 encontrados 0:
+MagneZone 19 encontrados 0:
+MagneZone 19 encontrados 0:
+Magnemite 88 abandono a su magnezone.
+Magnemite 89 ingreso a la manada 7.
+Magnemite 89 abandono a su magnezone.
+Magnemite 90 ingreso a la manada 16.
+Magnemite 90 abandono a su magnezone.
+Magnemite 91 ingreso a la manada 16.

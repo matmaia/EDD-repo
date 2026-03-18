@@ -1,0 +1,10 @@
+Magnemite 0 ingreso a la manada 1.
+Magnemite 1 ingreso a la manada 0.
+Magnemite 2 ingreso a la manada 2.
+Magnemite 3 ingreso a la manada 1.
+Magnemite 4 ingreso a la manada 0.
+Magnemite 5 ingreso a la manada 2.
+Magnemite 6 ingreso a la manada 2.
+Magnemite 7 ingreso a la manada 2.
+Magnemite 8 ingreso a la manada 2.
+Magnemite 9 ingreso a la manada 2.

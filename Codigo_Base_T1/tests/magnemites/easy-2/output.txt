@@ -1,0 +1,19 @@
+Magnemite 10 ingreso a la manada 1.
+MagneZone 1 encontrados 1:
+    Magnemite 10
+Magnemite 11 ingreso a la manada 0.
+Magnemite 12 ingreso a la manada 0.
+Magnemite 13 ingreso a la manada 3.
+MagneZone 0 encontrados 1:
+    Magnemite 11
+Magnemite 14 ingreso a la manada 1.
+Magnemite 15 ingreso a la manada 2.
+MagneZone 3 encontrados 0:
+Magnemite 16 ingreso a la manada 0.
+Magnemite 17 ingreso a la manada 3.
+MagneZone 3 encontrados 1:
+    Magnemite 17
+Magnemite 18 ingreso a la manada 1.
+MagneZone 0 encontrados 1:
+    Magnemite 16
+Magnemite 19 ingreso a la manada 0.
